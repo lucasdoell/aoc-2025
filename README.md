@@ -1,4 +1,4 @@
-# aoc-2024
+# aoc-2025
 
 To install dependencies:
 
